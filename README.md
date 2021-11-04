@@ -1,22 +1,44 @@
 # Podcastr
 
-<h1 align="center">Podcastr</h1>
-<h2>&#x1F4D2; Sobre:</h2>
-<p>O Podcastr é uma aplicação web contendo um único podcast onde o usuário vai poder acompanhar os últimos lançamentos do Podcastr, ouvir os episódios do Podcastr e ver detalhes sobre os episódios do Podcastr.</p>
-<p>O Podcastr é uma aplicação web que foi desenvolvida no evento Next Level Week 05. Este evento é realizado pela <a href="https://rocketseat.com.br/">Rocketseat</a> com objetivo de ajudar devs a avançar para o próximo nivel.</p>
-<br>
-<h2 align="center">&#x1F6A7 Podcastr em construção &#x1F6A7</h2>
-<br>
-<h2>&#x1F6E0 Tecnologias:</h2>
-<p align="justify">As seguintes ferramentas foram usadas na construção de Podcastr:</p>
-<ul>
-    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/About_JavaScript">JavaScript</a></li>
-    <li><a href="https://reactjs.org/">React</a></li>
-    <li><a href="https://nodejs.org/en/about/">Node</a></li>
-    <li><a href="https://yarnpkg.com/">Yarn</a></li>
-</ul>
-<br>
-<p>Feito por Jardel Urban! Contato:</p>
+## About 📰
+
+Podcastr is a web application where the user can follow Podcastr releases, listen to Podcastr episodes and see details about Podcastr episodes. Podcastr is a web application that was developed at the Next Level Week 05 event. This event is hosted by <a href="https://rocketseat.com.br/">RocketSeat<a> 🚀
+    
+------
+
+## Technologies 💻
+
+- Typescript
+- ReactJS
+- NodeJS
+- Sass
+- Axios
+- Next
+
+------
+
+## How to use 💡
+
+```bash
+# Clone this repository
+
+# Browse to folder 
+$ cd /path/to/devquiz 
+
+# Install the dependencies
+$ yarn install
+# or
+# npm install
+    
+# And then execute to start
+$ yarn start
+# or
+# npm start
+
+```
+------
+
+## Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jardel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jardel-urban-906519199/)](https://www.linkedin.com/in/jardel-urban-906519199/)
 [![Gmail Badge](https://img.shields.io/badge/-jardelurban3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jardelurban3@gmail.com)](mailto:jardelurban3@gmail.com)
