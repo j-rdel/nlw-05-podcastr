@@ -81,7 +81,7 @@ export function Player(){
                 </div>
            ) : (
                 <div className={!episode ? styles.emptyPlayer: ''}>
-                <strong>Selecione um podcast para ouvir</strong>
+                <strong>Selecione uma música para ouvir</strong>
                 </div>
            ) }
 
@@ -95,7 +95,7 @@ export function Player(){
                                 value={progress}
                                 onChange={handleSeek}
                                 trackStyle={{ backgroundColor: '#84d361'}}
-                                railStyle={{ backgroundColor: '#9f75ff'}}
+                                railStyle={{ backgroundColor: '#0c6b37'}}
                                 handleStyle={{ borderColor: '#84d361', borderWidth: 4}} 
                             />
                         ) : (

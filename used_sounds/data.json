@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "title": "Envolvidão",
+    "members": "Rael",
+    "published_at": "2014",
+    "thumbnail": "https://musics-uc-aws.s3.amazonaws.com/envolvidao.jpeg",
+    "file": {
+      "url": "https://musics-uc-aws.s3.amazonaws.com/envolvidao.mp3",
+      "type": "audio/mp3",
+      "duration": 216
+    }
+  },
+  {
+    "id": "2",
+    "title": "Gostava tanto de você",
+    "members": "Tim Maia",
+    "published_at": "2014",
+    "thumbnail": "https://musics-uc-aws.s3.amazonaws.com/gostava-tanto-de-voce.jpeg",
+    "file": {
+      "url": "https://musics-uc-aws.s3.amazonaws.com/gostava-tanto-de-voce.mp3",
+      "type": "audio/mp3",
+      "duration": 256
+    }
+  },
+  {
+    "id": "3",
+    "title": "Innerbloom",
+    "members": "Rüfüs",
+    "published_at": "2016",
+    "thumbnail": "https://musics-uc-aws.s3.amazonaws.com/innerbloom.jpeg",
+    "file": {
+      "url": "https://musics-uc-aws.s3.amazonaws.com/innerbloom.mp3",
+      "type": "audio/mp3",
+      "duration": 238
+    }
+  },
+  {
+    "id": "4",
+    "title": "Just the two of us",
+    "members": "Bill Withers e Grover Washington Jr.",
+    "published_at": "1980",
+    "thumbnail": "https://musics-uc-aws.s3.amazonaws.com/just-the-two-of-us.jpeg",
+    "file": {
+      "url": "https://musics-uc-aws.s3.amazonaws.com/just-the-two-of-us.mp3",
+      "type": "audio/mp3",
+      "duration": 438
+    }
+  },
+  {
+    "id": "5",
+    "title": "Killer queen",
+    "members": "Queen",
+    "published_at": "1974",
+    "thumbnail": "https://musics-uc-aws.s3.amazonaws.com/killer_queen.jpeg",
+    "file": {
+      "url": "https://musics-uc-aws.s3.amazonaws.com/killer-queen.mp3",
+      "type": "audio/mp3",
+      "duration": 191
+    }
+  },
+  {
+    "id": "6",
+    "title": "Leave the door open",
+    "members": "Anderson .Paak, Bruno Mars e Silk Sonic",
+    "published_at": "2021",
+    "thumbnail": "https://musics-uc-aws.s3.amazonaws.com/leave-the-door-open.jpeg",
+    "file": {
+      "url": "https://musics-uc-aws.s3.amazonaws.com/leave-the-door-open.mp3",
+      "type": "audio/mp3",
+      "duration": 248
+    }
+  },
+  {
+    "id": "7",
+    "title": "Minha alma (A paz que eu não quero)",
+    "members": "O Rappa",
+    "published_at": "1999",
+    "thumbnail": "https://musics-uc-aws.s3.amazonaws.com/minha-alma.jpeg",
+    "file": {
+      "url": "https://musics-uc-aws.s3.amazonaws.com/minha-alma.mp4",
+      "type": "audio/mp4",
+      "duration": 350
+    }
+  },
+  {
+    "id": "8",
+    "title": "Mulher de fases",
+    "members": "Raimundos",
+    "published_at": "1999",
+    "thumbnail": "https://musics-uc-aws.s3.amazonaws.com/mulher-de-fases.jpeg",
+    "file": {
+      "url": "https://musics-uc-aws.s3.amazonaws.com/mulher-de-fases.mp4",
+      "type": "audio/mp4",
+      "duration": 216
+    }
+  },
+  {
+    "id": "9",
+    "title": "Murder on my mind",
+    "members": "YNW Melly",
+    "published_at": "2018",
+    "thumbnail": "https://musics-uc-aws.s3.amazonaws.com/murder-on-my-mind.jpeg",
+    "file": {
+      "url": "https://musics-uc-aws.s3.amazonaws.com/murder-on-my-mind.mp3",
+      "type": "audio/mp3",
+      "duration": 296
+    }
+  },
+  {
+    "id": "10",
+    "title": "Telegrama",
+    "members": "Zeca Baleiro",
+    "published_at": "2002",
+    "thumbnail": "https://musics-uc-aws.s3.amazonaws.com/telegrama.jpeg",
+    "file": {
+      "url": "https://musics-uc-aws.s3.amazonaws.com/telegrama.mp3",
+      "type": "audio/mp3",
+      "duration": 266
+    }
+  }
+]
